@@ -11,7 +11,7 @@
             "title": "All Providers",
             "showAllStates": true,
             "orderBy": "provider",
-            "tier": ["Platinum Providers", "Gold Providers", "Silver Providers", "Bronze Providers"],
+            "tier": ["Diamond Providers", "Platinum Providers", "Gold Providers", "Silver Providers", "Bronze Providers"],
             "storeId": "IcingaProviderStatus"
         }
     ]
